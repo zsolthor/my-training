@@ -1,0 +1,4 @@
+ChatGPT connector write/read/delete smoke test
+2026-10-10
+Repository: zsolthor/my-training
+Temporary file; delete after verifying contents.
