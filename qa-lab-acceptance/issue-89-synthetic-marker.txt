@@ -1,0 +1,3 @@
+QA-LAB Automation v2 Writer Issue #89 - synthetic acceptance
+Plain-text fixture only; no executable code or secrets.
+No application, configuration, branch policy or deployment change.
